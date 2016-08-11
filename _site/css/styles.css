@@ -21,6 +21,8 @@ h3 {
   color:transparent;
   -webkit-background-clip: text;
   background-clip: text;
+  border: 20px solid blue;
+  padding: 20px;
 }
 
 /*Links*/
@@ -57,8 +59,10 @@ nav {
 
 footer {
   font-size: 30px;
-  color:yellow;
+  color:black;
   text-align:center;
+  border: 10px solid blue;
+  background-color: white;
 }
 
 span {
